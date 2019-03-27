@@ -20,6 +20,8 @@ http://keith-wood.name/maxlength.html
 
 ## Numeric Input
 
+Blog post: https://www.filamentgroup.com/lab/type-number.html?
+
 A number of features around normalizing the behavior of `<input type="number">` form fields. To start, add the `data-numeric-input` attribute to your `<input type="number">` element:
 
 ```html
